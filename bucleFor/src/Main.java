@@ -21,7 +21,7 @@ public class Main {
             }
         }
     }
-}
+ }
 /*
 
 necesitas usar 2 bucles ...
